@@ -32,7 +32,7 @@ h1{
     
 }
 
-@media (prefers-color-scheme: dark) {
+@media screen and (prefers-color-scheme: dark) {
   body {
        background-color: var(--cor-de-fundo);
        font-family: var(--fonte-principal);
