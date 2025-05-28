@@ -169,12 +169,3 @@
     }
 }
 
-@media screen and (prefers-color-scheme: dark) {
-  .cabecalho {
-    background-color:var(--cor-clara);
-  }
-  .lista-menu {
-    border: 2px solid var(--cor-clara);
-    background-color: var(--cor-clara);
-  }
-}
