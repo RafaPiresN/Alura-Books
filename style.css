@@ -6,6 +6,7 @@
 @import url(styles/rodape.css);
 
 :root {
+    color-scheme: light;
     --cor-de-fundo: #1e2025;
     --fundo-carrossel: #3f4552;
     --cor-titulo: #0f4386;
@@ -31,3 +32,5 @@ h1{
     color: var(--cor-titulo);
     
 }
+
+@media (prefers-color-scheme:light)
