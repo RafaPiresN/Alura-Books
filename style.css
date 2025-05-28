@@ -34,7 +34,7 @@ h1{
 
 @media screen and (prefers-color-scheme: dark) {
   body {
-       background-color: var(--cor-de-fundo);
+       background-color: var(--cor-clara);
        font-family: var(--fonte-principal);
   }
 }
