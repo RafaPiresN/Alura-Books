@@ -51,7 +51,7 @@
 
 .container__botao:checked~.container__rotulo{
     background: var(--azul-degrade);
-    padding: 0.5em 1em;
+    padding: 0.9em 1em;
 }
 
 .lista-menu__titulo , .lista-menu__item {
